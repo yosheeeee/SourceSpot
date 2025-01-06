@@ -1,0 +1,7 @@
+[submodule "sourceSpot_backend"]
+	path = backend
+	url = https://github.com/yosheeeee/sourceSpot_backend.git
+
+[submodule "sourceSpot_frontend"]
+	path = frontend
+	url = https://github.com/yosheeeee/sourceSpot_frontend.git
